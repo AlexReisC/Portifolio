@@ -1,6 +1,8 @@
 body{
     text-align: justify;
-    margin: 100px 100px 50px 100px;
+    margin: auto;
+    padding: 40px;
+    width: 80%;
     font-size: 13pt;
     color: white;
     background-color: #0D1117;
