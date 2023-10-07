@@ -1,6 +1,6 @@
 # Oi, eu sou o Alex e este é um portifolio de um dev backend.
 ## Sobre mim
-Sou Alex Reis Cavalcante, tenho 22 anos e curso Ciências da Computação (2020 - atualmente) pela UFCA. Estou iniciando minha carreira como dev e quero me tornar um desenvolvedor backend Java. Atualmente tenho me dedicado a estudar Java, SQL e inglês.
+Sou Alex Reis Cavalcante, tenho 22 anos e curso Ciências da Computação (2020 - atualmente) pela UFCA. Estou iniciando minha carreira como dev e quero me tornar um desenvolvedor backend Java. Atualmente tenho me dedicado a estudar Java, SpringBoot e inglês.
 ## Projetos
 [Aplicando conceitos de OO em Java e fazendo um catalogo de filmes](https://github.com/AlexReisC/Catalogo-de-Filmes)<br>
 [Estruturas de dados em C (Heap)](https://github.com/AlexReisC/Fuga-da-Galaxia)<br>
@@ -12,5 +12,4 @@ Sou Alex Reis Cavalcante, tenho 22 anos e curso Ciências da Computação (2020 
 - C
 - Python basico
 - Kotlin basico
-- SQL basico
 - Git/Github
