@@ -6,7 +6,7 @@ Sou Alex Reis Cavalcante, tenho 22 anos e curso Ciências da Computação (2020 
 [Estruturas de dados em C (Heap)](https://github.com/AlexReisC/Fuga-da-Galaxia)<br>
 [Tentativa de paralelizar o Selection sort com OpenMP e OpenMPI](https://github.com/AlexReisC/selection-Sort-Paralelo)<br>
 [Implementando algoritmos e estruturas de dados em Java](https://github.com/AlexReisC/Algoritmos-e-Estruturas-de-Dados-em-Java)<br>
-[mplementando lista, fila, pila e árvore binaria em C](https://github.com/AlexReisC/Exercicios_AED1)
+[Implementando lista, fila, pila e árvore binaria em C](https://github.com/AlexReisC/Exercicios_AED1)
 ## Tecnologias
 - Java
 - C
